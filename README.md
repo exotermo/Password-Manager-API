@@ -157,7 +157,19 @@ Access interactive documentation:
 ## 🛡️ Segurança / Security
 
 Senhas armazenadas com Argon2 + salt aleatório.
-
 Autenticação via JWT.
-
 Variáveis sensíveis isoladas em .env.
+
+## 📌 Roadmap
+
+API base with authentication
+Argon2 + salt password hashing
+User vault management
+Automated tests
+Docker deploy
+Mobile app integration
+
+# 📜 Licença / License
+
+Este projeto é de uso livre para fins educacionais. 
+This project is free to use for educational purposes.
