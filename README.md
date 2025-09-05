@@ -36,8 +36,6 @@ Este projeto é focado em estudo e demonstração de **boas práticas de backend
 
 ---
 ### 📂 Estrutura do Projeto (Português)
-
-### 📂 Estrutura do Projeto
 ```bash
 
 password-manager-api/
@@ -131,7 +129,7 @@ password-manager-api/
 └── README.md            # documentation
 ```
 
-###⚙️ How to Run
+### ⚙️ How to Run
 ```bash
 # Clone repository
 git clone https://github.com/youruser/password-manager-api.git
